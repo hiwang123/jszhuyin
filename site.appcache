@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+# 2013-10-27-00
+
+CACHE:
+//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css
+//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css
+
+lib/bopomofo_encoder.js
+lib/client.js
+lib/worker.js
+lib/jszhuyin.js
+lib/jszhuyin_data_pack.js
+lib/jszhuyin_server.js
+lib/storage.js
+lib/web.js
+data/database.data
+
+NETWORK:
+*
